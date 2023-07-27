@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: column;
+}
+
+.imageBorder {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
